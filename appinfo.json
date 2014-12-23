@@ -1,0 +1,50 @@
+{
+    "appKeys": {
+        "cooldown_length": 2,
+        "meditation_length": 1,
+        "warmup_length": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "jonhallur@gmail.com",
+    "longName": "TM Meditation Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_play.png",
+                "name": "IMAGE_ACTION_ICON_PLAY",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_pause.png",
+                "name": "IMAGE_ACTION_ICON_PAUSE",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_menu.png",
+                "name": "IMAGE_ACTION_ICON_MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_delete.png",
+                "name": "IMAGE_ACTION_ICON_DELETE",
+                "type": "png"
+            },
+            {
+                "file": "images/tm_timer_icon_small.png",
+                "menuIcon": true,
+                "name": "IMAGE_TM_TIMER_ICON_SMALL",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "TM Timer",
+    "uuid": "73ee1262-3a40-437c-b462-ebee683cbee4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
